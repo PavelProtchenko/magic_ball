@@ -13,4 +13,4 @@ Much more information about it [wiki](https://en.wikipedia.org/wiki/Magic_8-Ball
 To initiate the program:
 
 1) in console change the diriectory with program
-2) type in ruby magic_ball.rb
+2) type in ruby 8ball_3edition.rb
