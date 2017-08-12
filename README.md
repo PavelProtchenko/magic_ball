@@ -6,9 +6,9 @@ P.S. Sometimes it can help you)
 
 Much more information about it [wiki](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
-####To play it
+#### To play it
 
-######You have to install Ruby interpreter
+###### You have to install Ruby interpreter
 
 To initiate the program:
 
